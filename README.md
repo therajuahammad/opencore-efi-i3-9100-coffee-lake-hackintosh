@@ -1,5 +1,9 @@
 ## Hackintosh Opencore EFI for Intel Core i3-9100, Intel UHD Graphics 630 - Coffee Lake
 
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/therajuahammad/opencore-efi-i3-9100-coffee-lake-hackintosh/main/macOS%2012.4_i3-9100_UHD_630.png"/>
+</div>
+
 ### Processor
 QuadCore Intel Core i3 9th Gen - i3-9100 950 MHz (41 x 23) (Coffee Lake)
 
