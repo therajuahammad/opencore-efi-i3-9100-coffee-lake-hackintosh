@@ -5,7 +5,7 @@
 </div>
 
 ### Processor
-QuadCore Intel Core i3 9th Gen - i3-9100 950 MHz (41 x 23) (Coffee Lake)
+QuadCore Intel Core i3 9th Gen, i3-9100 (41 x 23) (Coffee Lake)
 
 ### IGPU
 Intel UHD Graphics 630
